@@ -311,7 +311,7 @@ button:hover {
 
 @media (max-width: 480px) {
   .headSection {
-    flex-direction: column;
+    /* flex-direction: column; */
     padding: 20px;
     gap: 10px;
   }
