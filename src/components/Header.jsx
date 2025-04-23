@@ -73,17 +73,22 @@ const Data = () => {
 };
 
 const Time = () => {
-  const timeHr = new Date().getHours();
-  const timeMin = new Date().getMinutes();
+  let timeHr = new Date().getHours();
+  let timeMin = new Date().getMinutes();
 
   let AM_PM;
 
   if (timeHr < 12) {
     AM_PM = "AM";
+    timeHr = "0" + timeHr;
   } else {
     AM_PM = "PM";
   }
 
+  if (timeMin < 10) {
+    timeMin = "0" + timeMin;
+  }
+  
   return (
     <div className="time">
       <p>Time:</p>
