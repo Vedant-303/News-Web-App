@@ -4,6 +4,12 @@ This is a sleek, minimalistic, newspaper-style React web application that fetche
 
 ---
 
+## 🔗 Live Link
+
+[News-Web-App](https://news-web-app-wine.vercel.app/)
+
+---
+
 ## 🚀 Features
 
 - 📡 **Live News Fetching** — Pulls top news articles from GNews API in real-time.
@@ -65,7 +71,7 @@ Contributions are welcome! Open an issue or create a PR if you’d like to sugge
 
 Made with ❤️ by [Vedant-303](https://github.com/Vedant-303)
 
-## 📬 🔗 Connect with Me
+## 📬 Connect with Me
 
 [Vedant Jeughale](https://www.linkedin.com/in/vedantjeughale/)
 
