@@ -80,7 +80,7 @@ body::selection {
 }
 
 .centerSection {
-  width: calc(2*(100vw-100px)/4);
+  width: calc(2 * (100vw-100px) / 4);
   padding: 0 10px;
   gap: 20px;
   display: flex;
@@ -91,9 +91,9 @@ body::selection {
   margin-bottom: 20px;
 }
 
-.leftSection, 
+.leftSection,
 .rightSection {
-  width: calc((100vw-100px)/4);
+  width: calc((100vw-100px) / 4);
   gap: 20px;
   display: flex;
   flex-direction: column;
@@ -124,7 +124,6 @@ button:hover {
   min-height: 200px;
   min-width: 26vw;
   background-color: #1c1c1a;
-  
 }
 
 .bigNews > .text {
