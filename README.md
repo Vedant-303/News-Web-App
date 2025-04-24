@@ -10,6 +10,12 @@ This is a sleek, minimalistic, newspaper-style React web application that fetche
 
 ---
 
+## 🖥️ Preview
+
+![](https://github.com/Vedant-303/News-Web-App/blob/main/Preview-GIF/News-Web-App-GIF.gif)
+
+---
+
 ## 🚀 Features
 
 - 📡 **Live News Fetching** — Pulls top news articles from GNews API in real-time.
